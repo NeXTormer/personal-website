@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Github",
+    "link": "https://github.com/nextormer",
+    "image": "images/social/github.svg"
+  },
+  {
+      "name": "Email",
+      "link": "mailto:felix.holz@me.com ",
+      "image": "images/social/email.svg"
+  },
+  {
+      "name": "Instagram",
+      "link": "https://instagram.com/nextormer",
+      "image": "images/social/instagram.svg"
+  }
+]

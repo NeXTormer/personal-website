@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Cross-platform",
+    "description": "I specialize in cross-platform applications: Android, iOS and web apps",
+    "image": {
+      "url": "images/features/lockup_flutter_horizontal.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Full-stack developer",
+    "description": "I cover all areas needed to sucessfully launch a great product",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "All in one solution",
+    "description": "I handle everything - from start to finish. You can focus on what you do best!",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

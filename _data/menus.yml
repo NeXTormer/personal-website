@@ -1,0 +1,18 @@
+main:
+  - name: "Development"
+    url: "/projects/"
+    weight: 2
+  - name: "Photography"
+    url: "/photography/"
+    weight: 3
+  - name: "About me"
+    url: "/about/"
+    weight: 4
+  - name: "Contact"
+    url: "/contact/"
+    weight: 5
+
+footer:
+  - name: "Imprint"
+    url: "/imprint/"
+    weight: 1
