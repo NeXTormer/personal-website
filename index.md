@@ -1,13 +1,14 @@
 ---
 title: Felix Holz
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: ''
+
 intro_image: "images/photos/profile-picture.png"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Hello World! - I'm Felix 
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+I'm a freelance developer specializing in creating full stack web- and mobile applications, and I do photo and video work on the side.
