@@ -7,4 +7,4 @@ image: images/photography/DSC9713.jpg
 
 ![](/images/photography/DSC9713.jpg)
 ![](/images/photography/DSC9700.jpg)
-![](/images/photography/DSC9418.jpg)
+
