@@ -2,11 +2,13 @@
 title: Photography
 layout: photography
 description: Services
-intro_image: "images/illustrations/reading.svg"
-intro_image_absolute: true
-intro_image_hide_on_mobile: true
+intro_image: "images/photos/DSC5190.jpg"
+intro_image_absolute: false
+intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
+# My photography and videography portfolio
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+I've started photographing as a hobby a few years ago. Since then, I have expanded into videography and doing paid work.
+
+Feel free to contact me if you have any specific needs.

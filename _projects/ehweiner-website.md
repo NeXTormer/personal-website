@@ -4,7 +4,7 @@ image: /images/photos/Ehweiner-1.png
 weight: 3
 ---
 
-Die Website fürs Gästehaus inkl. Video Landingpage.
+The website for a hotel, with a custom video for the landingpage.
 
 
-[Zur Website](https://gaestehaus-ehweiner.at)
+[Website](https://gaestehaus-ehweiner.at)

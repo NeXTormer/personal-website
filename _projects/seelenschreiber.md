@@ -4,5 +4,5 @@ image: /images/photos/Seelenschreiber-1.png
 weight: 5
 ---
 
-Rituale und Sprüche in einem Wicca/Ouija-Brett format.
+Rituals and quotes with a ouija board interface.
 
