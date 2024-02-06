@@ -1,4 +1,4 @@
-baseurl: '/personal-website'
+baseurl: '/'
 permalink: pretty
 title: 'Felix Holz'
 footer_text: 'Felix Holz, Graz, Austria'
@@ -39,6 +39,7 @@ sass:
 
 plugins:
   - jekyll-environment-variables
+
 
 exclude:
   - Gemfile
