@@ -1,6 +1,6 @@
 ---
 title: "Gästehaus Ehweiner"
-image: /images/photos/Ehweiner-1.png
+image: /images/photos/Ehweiner-1.jpg
 weight: 3
 ---
 

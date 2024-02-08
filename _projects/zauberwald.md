@@ -1,6 +1,6 @@
 ---
 title: "Magischer Zauberwald"
-image: /images/photos/Zauberwald-1.png
+image: /images/photos/Zauberwald-1.jpg
 weight: 4
 ---
 

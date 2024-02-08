@@ -1,6 +1,6 @@
 ---
 title: "Der Seelenschreiber"
-image: /images/photos/Seelenschreiber-1.png
+image: /images/photos/Seelenschreiber-1.jpg
 weight: 5
 ---
 
