@@ -20,7 +20,8 @@ bodyClass: "page-services"
 
 <div class="container pt-6 pb-6">
   <div class="row">
-    {% for post in site.projects %}
+    {% assign sorted_posts = site.projects | sort: 'weight' %}
+    {% for post in sorted_posts %}
     
     <div class="col-12 col-md-4 mb-2">
       <div class="overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900"> 
