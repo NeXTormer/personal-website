@@ -5,9 +5,9 @@ main:
   - name: "Photography"
     url: "/photography/"
     weight: 3
-  - name: "About me"
-    url: "/about/"
-    weight: 4
+  # - name: "About me"
+  #   url: "/about/"
+  #   weight: 4
   - name: "Contact"
     url: "/contact/"
     weight: 5
