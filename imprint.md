@@ -8,14 +8,14 @@ intro_image_hide_on_mobile: true
 ---
 
 **Last updated**  
-June 06 2023
+November 20, 2024
 
 
 ## Imprint / Impressum
 
 Felix Holz  
-Petersgasse 119  
-8010 Graz  
+Karlauerstraße 16
+8020 Graz  
 
 Dienstleistungen in der automatischen Datenverarbeitung und Informationstechnik
 
